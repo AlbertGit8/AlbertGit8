@@ -1,2 +1,2 @@
-### 👋 Hola, soy muy de merendar
+### 👋 Hola
 Aprendiendo un poquito de desarrollo de aplicaciones 🧑‍💻, cualquier cosa díganme
